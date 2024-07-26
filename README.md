@@ -41,6 +41,7 @@ My passion for algorithms skyrocked after my happenchance **_conversation with t
   - Real-time [sentiment classification using Google Cloud](https://github.com/Raj-Bapat/AI-Augmented-Mind) in my research on AI Augmented Mind 
   - Hardware-accelerated [SIMD/AVX implementation of Smith Waterman](https://github.com/Raj-Bapat/SIMD-Smith-Waterman) DNA matching algorithm and test cases
   - Hardware-accelerated [SIMD/AVX integrated into Nucliec Acid Designer](https://github.com/Raj-Bapat/SIMD-accelerated-Nucliec-Acid-Designer) open source tool
+  - A PostgreSQL [vector search RDBMS benchmark for performance and recall](https://github.com/Raj-Bapat/Analysis-and-Benchmark-for-Approx-Nearest-Neighbour-Search-in-SQL) analysis of SQL queries with Approximate Nearest Neighbor Search
 
 
 
