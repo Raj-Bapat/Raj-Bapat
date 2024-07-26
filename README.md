@@ -7,10 +7,10 @@ My name is Raj Bapat, I am a student and researcher at UCSD passionate about AI,
 class RajBapat
 {
 private:
-    int age = 20;
+    short int age = 20;
 public:
-    int yearsOfCompetitiveProgrammingInCPP = 8;
-    string collegeName = "UCSD";
+    long long int yearsOfCompetitiveProgrammingInCPP = 8;
+    std::string collegeName = "UCSD";
     double collegeGPA = 4.0;
 
     std::vector<std::string> experiences =
@@ -24,7 +24,7 @@ public:
 
 I got hooked on programming when I was 12 years old, in just a few weeks, C++ felt like my second language. I got to the top 20 in my grade nationally in USA Computing Olympiad and even surprised myself having placed 6th in the nation in Virginia Tech High School Programming Contest! I have been in competitive programming contests for the last 8 years, this year as team captain and coach for my college's ICPC team.
 
-My passion for math and computer science started with algorithms (having skyrocked after my **_happenstance conversation with _the_ Donald Knuth_** at a Diwali party!) and has now morphed into delving (and going beyond) the depths of more CS/Math/EE fields from AI/ML & Data Mining to SIMD/AVX intrinsics-based acceleration for Molecular Computing. 
+My passion for algorithms skyrocked after my **_happenchance conversation with the Professor Donald Knuth_** (at a Diwali party!) and has now morphed into delving (and going beyond) the depths of more CS/Math/EE fields from AI/ML & Data Mining to SIMD/AVX intrinsics-based acceleration for Molecular Computing. 
 
 # :round_pushpin: What Am I Doing?
 - :clipboard: Currently, I am:
