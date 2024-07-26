@@ -30,7 +30,8 @@ My passion for math and computer science started with algorithms (having skyrock
 - :clipboard: Currently, I am:
   - working as a **SWE Intern on building Machine Learning systems** for content moderation at **TikTok**.
 - :clipboard: Previously, I was:
-  - working as an **NSF Undergraduate Researcher** in the **Molecular Computing Lab** at UC Davis
-  - researching in AI/ML & Information Retrieval
-      - Unsupervised Learning with k-means clusters and Approximate Nearest Neighbour search
+  - working as an NSF Undergraduate Researcher in the Molecular Computing Lab at UC Davis
+  - working as a researcher in AI/ML, Approx. Nearest Neightbour Search in SQL Databases
+  - working as a Research Intern in OVAL Virtual Assistant Lab at Stanford University
+  - working as a SWE Intern in Nutanix
 
