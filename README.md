@@ -36,17 +36,20 @@ My passion for algorithms skyrocked after my happenchance **_conversation with t
   - an SWE Intern in Nutanix
  
 # :star: Helpful code you can use
-- :clipboard: Here is some code that you will find useful for your projects:
-  - C++ implementation library for [16 advanced algorithms](https://github.com/Raj-Bapat/competitive-programming-algorithm-implementations) for Competitive Programming
-  - Real-time [sentiment classification using Google Cloud](https://github.com/Raj-Bapat/AI-Augmented-Mind) in my research on AI Augmented Mind 
-  - Hardware-accelerated [SIMD/AVX implementation of Smith Waterman](https://github.com/Raj-Bapat/SIMD-Smith-Waterman) DNA matching algorithm and test cases
-  - Hardware-accelerated [SIMD/AVX integrated into Nucliec Acid Designer](https://github.com/Raj-Bapat/SIMD-accelerated-Nucliec-Acid-Designer) open source tool
-  - A PostgreSQL [vector search RDBMS benchmark for performance and recall](https://github.com/Raj-Bapat/Analysis-and-Benchmark-for-Approx-Nearest-Neighbour-Search-in-SQL) analysis of SQL queries with Approximate Nearest Neighbor Search
+:clipboard: Here is some code that you will find useful for your projects:
+- C++ implementation library for [16 advanced algorithms](https://github.com/Raj-Bapat/competitive-programming-algorithm-implementations) for Competitive Programming
+- Real-time [sentiment classification using Google Cloud](https://github.com/Raj-Bapat/AI-Augmented-Mind) in my research on AI Augmented Mind 
+- Hardware-accelerated [SIMD/AVX implementation of Smith Waterman](https://github.com/Raj-Bapat/SIMD-Smith-Waterman) DNA matching algorithm and test cases
+- Hardware-accelerated [SIMD/AVX integrated into Nucliec Acid Designer](https://github.com/Raj-Bapat/SIMD-accelerated-Nucliec-Acid-Designer) open source tool
+- A PostgreSQL [vector search RDBMS benchmark for performance and recall](https://github.com/Raj-Bapat/Analysis-and-Benchmark-for-Approx-Nearest-Neighbour-Search-in-SQL) analysis of SQL queries with Approximate Nearest Neighbor Search
+
+# :sunglasses: A glimpse at two of my research papers
+- _[Using SIMD to accelerate DNA Design](https://github.com/Raj-Bapat/Raj-Bapat/blob/main/Accelerating_DNA_Sequence_Design_with_SIMD_Parallelization-Final.pdf)_, Raj Bapat, David Doty.
+- _[A Benchmark and an Evaluation for SQL Queries with k-Nearest Neighbor Search](https://github.com/Raj-Bapat/Raj-Bapat/blob/main/RajBapat-VectorDatabase-paper.pdf)_, Raj Bapat
 
 # :people_holding_hands: Engaging 1000s of students in two California communities
 I am also passionate about building communities through programming competitions and programming clubs, having created two annual regional competitions that I founded in two communities (SF Bay Area and Davis). I am proud to have both competitions continuing to thrive, the high school competition had its 4th year and the university competition had its 2nd year.
 - Co-founded the [first Davis community competitive programming contest](https://acpc-ucd.com/) in 2023 sponsored by UC Davis CS Department faculty under the guidance of Slobodan Mitrovi ́c, Assistant Professor in CS. Now in its 2d year
 - Co-founded the [first SF Bay Area community programming contest](https://bapc.gunncpc.com/archive) in 2021. I created this as a joint contest between two bay area high schools (Paly & Gunn) to engage students during the pandemic. Now in its 4th year
-
 
 
