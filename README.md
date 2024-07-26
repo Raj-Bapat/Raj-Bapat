@@ -4,23 +4,36 @@
 My name is Raj Bapat, I am a student and researcher at UCSD passionate about AI, Systems and Databases!
 
 ```cpp
-class Raj-Bapat
+class RajBapat
 {
 private:
     int age = 20;
 public:
-    std::vector<std::string> traits = { "AI/ML", "Data", "Information Retrieval", "Systems", "SIMD" };
-    std::vector<std::string> hobbies = { "Community Organizer", "Competitive Programming", "US Squash"};
+    int yearsOfCompetitiveProgrammingInCPP = 8;
+
+    string college = "UCSD";
+    float collegeGPA = 4.0;
+
+    std::vector<std::string> experiences =
+        { "SWE Intern at TikTok", "NSF Researcher at UC Davis", "Research Intern at Stanford University" }
+
+    std::vector<std::string> traits =
+        { "AI/ML", "Data", "Information Retrieval", "Systems", "SIMD" };
+
+    std::vector<std::string> hobbies =
+        { "Community Organizer", "Competitive Programming", "US Squash"};
 };
 ```
 
-I got hooked on programming when I was 12 years old, when I jumped into USA Computing Olympiad and competed nationally, reaching 6th Nationally in Virginia Tech High School Programming Contest! I have been pursuing it for the last 8 years, this year as the Team Captain for my College's ICPC team!
+I got hooked on programming when I was 12 years old, in just a few weeks C++ felt like my first language. In just a few years I got to the top 20 in my grade nationally in USA Computing Olympiad and even surprised myself having placed 6th in the nation in Virginia Tech High School Programming Contest! I have been pursuing competitive programming as a sport for the last 8 years, this year as team captain and coach for my college's ICPC team.
 
-My passion for math and computer science has now morphed into a desire to go deep into a number of fields from AI/ML and Data Mining to hardware acceleration using SIMD/AVX intrinsics to Molecular Computing. 
+My passion for math and computer science started with algorithms (having skyrocked after my **happenstance conversation with _the_ Donald Knuth** at a Diwali party!) and has now morphed into going deep into adjacent CS/Math fields from AI/ML and Data Mining to hardware acceleration using SIMD/AVX intrinsics for Molecular Computing. 
 
 # :round_pushpin: What Am I Doing?
-- :clipboard: Currently I am:
-  - Currently working as a SWE intern on building Machine Learning systems for content moderation at TikTok.
-  - For the past year I have been working as an NSF-funded researcher in the Molecular Computing lab at UC Davis
-  - I have also been researching Unsupervised Learning techniques like Clustering and Approximate Nearest Neighbour search, as they are a fundamental building block in the future of AI/ML, particularly Large Language Models.
+- :clipboard: Currently, I am:
+  - working as a **SWE Intern on building Machine Learning systems** for content moderation at **TikTok**.
+- :clipboard: Previously, I was:
+  - working as an **NSF Undergraduate Researcher** in the **Molecular Computing Lab** at UC Davis
+  - researching in AI/ML & Information Retrieval
+      - Unsupervised Learning with k-means clusters and Approximate Nearest Neighbour search
 
