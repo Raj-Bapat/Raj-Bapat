@@ -28,7 +28,7 @@ My passion for algorithms skyrocked after my happenchance **_conversation with t
 
 # :round_pushpin: What Am I Doing?
 - :clipboard: Currently, I am working as:
-  - a **SWE Intern on building Machine Learning systems** for content moderation at **TikTok**.
+  - a **SWE Intern at TikTok Inc. building Machine Learning systems** for content moderation.
 - :clipboard: Previously, I was working as:
   - an NSF Undergraduate Researcher in the Molecular Computing Lab at UC Davis
   - a researcher in AI/ML, Approx. Nearest Neightbour Search in SQL Databases
