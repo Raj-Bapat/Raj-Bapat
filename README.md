@@ -44,6 +44,7 @@ My passion for algorithms skyrocked after my happenchance **_conversation with t
 - A PostgreSQL [vector search RDBMS benchmark for performance and recall](https://github.com/Raj-Bapat/Analysis-and-Benchmark-for-Approx-Nearest-Neighbour-Search-in-SQL) analysis of SQL queries with Approximate Nearest Neighbor Search
 
 # :sunglasses: A glimpse at two of my research papers
+I love to go deep in a new field where we can contribute to furthering our understanding of a field or a method that helps accelerate the pursuit of future research. I am sharing two such areas, one in the intersection of bioinformatics and hardware accelerators, and the other in the area of Databases & Information Retrieval.
 - _[Using SIMD to accelerate DNA Design](https://github.com/Raj-Bapat/Raj-Bapat/blob/main/Accelerating_DNA_Sequence_Design_with_SIMD_Parallelization-Final.pdf)_, Raj Bapat, David Doty.
 - _[A Benchmark and an Evaluation for SQL Queries with k-Nearest Neighbor Search](https://github.com/Raj-Bapat/Raj-Bapat/blob/main/RajBapat-VectorDatabase-paper.pdf)_, Raj Bapat
 
