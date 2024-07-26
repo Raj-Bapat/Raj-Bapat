@@ -35,7 +35,7 @@ My passion for algorithms skyrocked after my happenchance **_conversation with t
   - a Research Intern in OVAL Virtual Assistant Lab at Stanford University
   - an SWE Intern in Nutanix
  
-# :star: Helpful code you can use
+# :star: My code at your service
 :clipboard: Here is some code that you will find useful for your projects:
 - C++ implementation library for [16 advanced algorithms](https://github.com/Raj-Bapat/competitive-programming-algorithm-implementations) for Competitive Programming
 - Real-time [sentiment classification using Google Cloud](https://github.com/Raj-Bapat/AI-Augmented-Mind) in my research on AI Augmented Mind 
@@ -43,7 +43,7 @@ My passion for algorithms skyrocked after my happenchance **_conversation with t
 - Hardware-accelerated [SIMD/AVX integrated into Nucliec Acid Designer](https://github.com/Raj-Bapat/SIMD-accelerated-Nucliec-Acid-Designer) open source tool
 - A PostgreSQL [vector search RDBMS benchmark for performance and recall](https://github.com/Raj-Bapat/Analysis-and-Benchmark-for-Approx-Nearest-Neighbour-Search-in-SQL) analysis of SQL queries with Approximate Nearest Neighbor Search
 
-# :sunglasses: A glimpse at two of my research papers
+# :sunglasses: Take a glimpse at my research
 I love to go deep in a new field where we can contribute to furthering our understanding of a field or a method that helps accelerate the pursuit of future research. I am sharing two such areas, one in the intersection of bioinformatics and hardware accelerators, and the other in the area of Databases & Information Retrieval.
 - _[Using SIMD to accelerate DNA Design](https://github.com/Raj-Bapat/Raj-Bapat/blob/main/Accelerating_DNA_Sequence_Design_with_SIMD_Parallelization-Final.pdf)_, Raj Bapat, David Doty.
 - _[A Benchmark and an Evaluation for SQL Queries with k-Nearest Neighbor Search](https://github.com/Raj-Bapat/Raj-Bapat/blob/main/RajBapat-VectorDatabase-paper.pdf)_, Raj Bapat
