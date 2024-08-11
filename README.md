@@ -39,7 +39,7 @@ My interest in algorithms was elevated by a chance conversation I had with the l
 :clipboard: Here is some code that you may find useful for your own projects:
 - C++ implementation library for [16 advanced algorithms](https://github.com/Raj-Bapat/competitive-programming-algorithm-implementations) for Competitive Programming
 - Real-time [sentiment classification using Google Cloud](https://github.com/Raj-Bapat/AI-Augmented-Mind) in my research on AI Augmented Mind 
-- Hardware-accelerated and Portable reference [SIMD implementation of Smith Waterman](https://github.com/Raj-Bapat/SIMD-Smith-Waterman) DNA matching algorithm and tests with SIMD implementation in Google/Highway to be portable across ARM, Intel and other platforms.
+- Hardware-accelerated and portable reference [SIMD implementation of Smith Waterman](https://github.com/Raj-Bapat/SIMD-Smith-Waterman-Portable) DNA matching algorithm leveraging Google Highway to enable portability across ARM, Intel and other platforms.
 - A PostgreSQL [vector search RDBMS benchmark for performance and recall](https://github.com/Raj-Bapat/Analysis-and-Benchmark-for-Approx-Nearest-Neighbour-Search-in-SQL) analysis of SQL queries with Approximate Nearest Neighbor Search
 - Hardware-accelerated [SIMD/AVX integrated into Nucliec Acid Designer](https://github.com/Raj-Bapat/SIMD-accelerated-Nucliec-Acid-Designer) open source tool
 
