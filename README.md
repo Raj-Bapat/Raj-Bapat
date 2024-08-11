@@ -49,7 +49,7 @@ I love exploring fields that push the boundaries of our understanding and accele
 - _[Using SIMD to accelerate DNA Design](https://github.com/Raj-Bapat/Raj-Bapat/blob/main/Accelerating_DNA_Sequence_Design_with_SIMD_Parallelization-Final.pdf)_, Raj Bapat, David Doty.
 - _[A Benchmark and an Evaluation for SQL Queries with k-Nearest Neighbor Search](https://github.com/Raj-Bapat/Raj-Bapat/blob/main/RajBapat-VectorDatabase-paper.pdf)_, Raj Bapat
 
-# :people_holding_hands: Join my California communities
+# :people_holding_hands: Join my communities
 My most personally fulfilling projects involve building communities through programming competitions and programming clubs. I co-founded two annual regional competitions in two communities (SF Bay Area and Davis). I'm proud that both competitions continue to be cornerstones of thier respective regional programming communities, engaging 1000s of students yearly.
 - Co-founded the [first Davis community competitive programming contest](https://acpc-ucd.com/) in 2023 sponsored by UC Davis CS Department faculty under the guidance of Slobodan Mitrovi ́c, Assistant Professor in CS - contest now in its 2nd year
 - Co-founded the [first SF Bay Area community programming contest](https://bapc.gunncpc.com/archive) in 2021. I created this as a joint contest between two bay area high schools (Paly & Gunn) to engage students during the pandemic - contest now in its 4th year
