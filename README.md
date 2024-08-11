@@ -22,9 +22,9 @@ public:
 };
 ```
 
-I've been passionate about programming ever since I was 12 years old, when in just a few short weeks I coded the entire [game of life]([url](https://cs.stanford.edu/people/eroberts/courses/soco/projects/2001-02/cellular-automata/index.html)) from scratch, gaining proficiency in C++ along the way. I've been riding that wave ever since, eventually reaching the top 20 in my grade nationally in USA Computing Olympiad and placing 6th nationally at the Virginia Tech High School Programming Contest! I've been competing in programming contests for the last 8 years including this year as an ICPC team captain and coach.
+I've been passionate about programming ever since I was 12 years old, when in just a few short weeks I coded the entire [game of life](https://cs.stanford.edu/people/eroberts/courses/soco/projects/2001-02/cellular-automata/index.html) from scratch, gaining proficiency in C++ along the way. I've been riding that wave ever since, eventually reaching the top 20 in my grade nationally in USA Computing Olympiad and placing 6th nationally at the Virginia Tech High School Programming Contest! I've been competing in programming contests for the last 8 years including this year as an ICPC team captain and coach.
 
-My interest in algorithms was elevated by a chance conversation I had with the legend himself **Professor Donald Knuth_** (at a Diwali party!), blossoming into multiple investigations across computing from AI/ML & Data Mining to SIMD/AVX intrinsics-based acceleration for Molecular Computing. 
+My interest in algorithms was elevated by a chance conversation I had with the legend himself **Professor Donald Knuth** (at a Diwali party!), blossoming into multiple investigations across computing from AI/ML & Data Mining to SIMD/AVX intrinsics-based acceleration for Molecular Computing. 
 
 # :round_pushpin: What Am I Doing?
 - :clipboard: Currently, I am working as:
