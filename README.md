@@ -28,7 +28,7 @@ My interest in algorithms was elevated by a chance conversation I had with the l
 
 # :round_pushpin: What Am I Doing?
 - :clipboard: Currently, I am working as:
-  - a **SWE Intern at TikTok Inc. building Machine Learning systems** at scale for content moderation (my ML experimentation platform is now running on TikTok prod :clap::clap:)
+  - a **SWE Intern at TikTok Inc. building Machine Learning systems** at scale for content moderation (my ML platform is now running in TikTok production, processing 100 Million+ ML policy evaluations/day :clap::clap:)
 - :clipboard: Previously, I was working as:
   - an NSF Undergraduate Researcher in the Molecular Computing Lab at UC Davis
   - a researcher in AI/ML, Approx. Nearest Neightbour Search in SQL Databases
