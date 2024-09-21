@@ -16,7 +16,7 @@ public:
     std::vector<std::string> experiences =
         { "SWE Intern at TikTok", "NSF Undergraduate Researcher at UC Davis", "Research Intern at Stanford University" }
     std::vector<std::string> traits =
-        { "AI/ML", "Data", "Information Retrieval", "Systems", "SIMD" };
+        { "Systems", "AI/ML", "Database", "Information Retrieval", "SIMD", "CUDA" };
     std::vector<std::string> hobbies =
         { "Community Organizer", "Competitive Programming", "US Squash"};
 };
@@ -38,10 +38,10 @@ My interest in algorithms was elevated by a chance conversation I had with the l
 # :star: What code can you use?
 :clipboard: Here is some code that you may find useful for your own projects:
 - C++ implementation library for [16 advanced algorithms](https://github.com/Raj-Bapat/competitive-programming-algorithm-implementations) for Competitive Programming
-- Real-time [sentiment classification using Google Cloud](https://github.com/Raj-Bapat/AI-Augmented-Mind) in my research on AI Augmented Mind 
 - Hardware-accelerated and portable reference [SIMD implementation of Smith Waterman](https://github.com/Raj-Bapat/SIMD-Smith-Waterman-Portable) DNA matching algorithm leveraging Google Highway to enable portability across ARM, Intel and other platforms.
 - A PostgreSQL [vector search RDBMS benchmark for performance and recall](https://github.com/Raj-Bapat/Analysis-and-Benchmark-for-Approx-Nearest-Neighbour-Search-in-SQL) analysis of SQL queries with Approximate Nearest Neighbor Search
 - Hardware-accelerated [SIMD/AVX integrated into Nucliec Acid Designer](https://github.com/Raj-Bapat/SIMD-accelerated-Nucliec-Acid-Designer) open source tool
+- Real-time [sentiment classification using Google Cloud](https://github.com/Raj-Bapat/AI-Augmented-Mind) in my research on AI Augmented Mind 
 
 # :sunglasses: Take a glimpse at my research
 I love exploring fields that push the boundaries of our understanding and accelerate future research. Recently, I’ve been thinking about how to speed up bioinformatics algorithms with hardware acceleration, and diving deep into the world of Databases, AI and Information Retrieval.
